@@ -33,7 +33,7 @@ i'm kim darren, and i'm a full stack developer <img src="https://media.giphy.com
 
 - :zap: in my free time, i read tech articles.
 
-- :mailbox:how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kimdarren-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kim-darren-peralta)
+- :mailbox:how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kimdarren-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/kim-darren-peralta)
 
 ---
 
