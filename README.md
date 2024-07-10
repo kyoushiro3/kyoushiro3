@@ -4,7 +4,7 @@
 
 
 <div id="badges">
-  <a href="www.linkedin.com/in/kim-darren-peralta">
+  <a href="www.linkedin.com/kim-darren-peralta">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="instagram.com/kimdarrenopqrst.ig">
