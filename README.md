@@ -4,10 +4,10 @@
 
 
 <div id="badges">
-  <a href="www.linkedin.com/kim-darren-peralta">
+  <a href="www.linkedin.com/kim-darren-peralta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="instagram.com/kimdarrenopqrst.ig">
+  <a href="instagram.com/kimdarrenopqrst.ig" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
